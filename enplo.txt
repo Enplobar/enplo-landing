@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Εν Πλω - Cafe Bar Restaurant Milos </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+    <div class="text-center bg-white p-8 rounded-2xl shadow-lg w-full max-w-md">
+        <h1 class="text-3xl font-bold mb-4">Εν Πλω</h1>
+        <p class="text-lg text-gray-600 mb-6">Cafe Bar Restaurant</p>
+        <div class="flex flex-col gap-4">
+            <img src="/mnt/data/1135d78d-0863-488a-8e5a-8ac86cde051e.png" alt="View from En Plo" class="rounded-xl mb-4">
+            <img src="/mnt/data/9eccd28c-1945-4574-a48c-cd74ab1ce173.png" alt="Drink at En Plo" class="rounded-xl mb-4">
+            <img src="/mnt/data/44cb74d8-df60-406e-afdf-4459c6cf7ace.png" alt="Night view from En Plo" class="rounded-xl mb-4">
+            <a href="https://www.google.com/search?sa=X&sca_esv=2666264f46ac7bd6&tbm=lcl&sxsrf=AHTn8zp3EIWoAiO88su-UO-QaVynbxy8MA:1747204430302&q=EN+PLO+%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%AE%CF%83%CE%B5%CE%B9%CF%82&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2NjEwsbQ0MzE1NDU0tDAzNTWz3MDI-IpR3tVPIcDHX-HcxHP7zu08t__cbiDefG7d-eZzW8_tPN-0iJWQCgAsOqlPXgAAAA&rldimm=3404996451511865569&hl=el-GR&ved=2ahUKEwjO_6vbq6KNAxUS_rsIHaM0HGYQ9fQKegQISxAF&biw=1536&bih=703&dpr=1.25#lkt=LocalPoiReviews" class="bg-yellow-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">Αξιολογήστε μας στο Google</a>
+            <a href="https://www.instagram.com/enplomilos?igsh=am0zc3RhcWs4bjM2" class="bg-red-500 text-white py-2 px-4 rounded-xl hover:bg-pink-600">Βρείτε μας στο Instagram</a>
+        </div>
+    </div>
+</body>
+</html>
